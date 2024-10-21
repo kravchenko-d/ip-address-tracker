@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "leaf": "^1.0.1",
+    "leaflet": "^1.9.4"
   }
 }
